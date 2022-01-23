@@ -1,0 +1,78 @@
+2022-01-23:22:54:11,745 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): api.ocr.space:443
+2022-01-23:22:54:19,836 DEBUG    [connectionpool.py:456] https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 397
+2022-01-23:22:54:19,839 INFO     [parking_lot.py:75] Plate number: 6241506
+, Denied: No letter in plate, Timestamp: 2022-01-23 22:54:11
+2022-01-23:22:54:19,864 DEBUG    [connection.py:218] # _do_auth(): user: root
+2022-01-23:22:54:19,864 DEBUG    [connection.py:220] # _do_auth(): self._auth_plugin: 
+2022-01-23:22:54:19,864 DEBUG    [connection.py:251] new_auth_plugin: caching_sha2_password
+2022-01-23:23:09:23,21 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): api.ocr.space:443
+2022-01-23:23:09:24,241 DEBUG    [connectionpool.py:456] https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 396
+2022-01-23:23:09:24,245 INFO     [parking_lot.py:75] Plate number: 6241506
+, Denied: No letter in plate, Timestamp: 2022-01-23 23:09:23
+2022-01-23:23:09:24,283 DEBUG    [connection.py:218] # _do_auth(): user: root
+2022-01-23:23:09:24,283 DEBUG    [connection.py:220] # _do_auth(): self._auth_plugin: 
+2022-01-23:23:09:24,283 DEBUG    [connection.py:251] new_auth_plugin: caching_sha2_password
+2022-01-23:23:14:16,339 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): api.ocr.space:443
+2022-01-23:23:14:18,232 DEBUG    [connectionpool.py:456] https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 396
+2022-01-23:23:14:18,235 INFO     [parking_lot.py:75] Plate number: 6241506
+, Denied: No letter in plate, Timestamp: 2022-01-23 23:14:16
+2022-01-23:23:14:18,261 DEBUG    [connection.py:218] # _do_auth(): user: root
+2022-01-23:23:14:18,261 DEBUG    [connection.py:220] # _do_auth(): self._auth_plugin: 
+2022-01-23:23:14:18,261 DEBUG    [connection.py:251] new_auth_plugin: caching_sha2_password
+2022-01-23:23:14:35,328 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): api.ocr.space:443
+2022-01-23:23:14:36,559 DEBUG    [connectionpool.py:456] https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 396
+2022-01-23:23:14:36,563 INFO     [parking_lot.py:75] Plate number: 6241506
+, Denied: No letter in plate, Timestamp: 2022-01-23 23:14:35
+2022-01-23:23:14:36,588 DEBUG    [connection.py:218] # _do_auth(): user: root
+2022-01-23:23:14:36,588 DEBUG    [connection.py:220] # _do_auth(): self._auth_plugin: 
+2022-01-23:23:14:36,589 DEBUG    [connection.py:251] new_auth_plugin: caching_sha2_password
+2022-01-23:23:15:12,658 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): api.ocr.space:443
+2022-01-23:23:15:13,951 DEBUG    [connectionpool.py:456] https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 396
+2022-01-23:23:15:13,955 INFO     [parking_lot.py:75] Plate number: 6241506
+, Denied: No letter in plate, Timestamp: 2022-01-23 23:15:12
+2022-01-23:23:15:13,980 DEBUG    [connection.py:218] # _do_auth(): user: root
+2022-01-23:23:15:13,980 DEBUG    [connection.py:220] # _do_auth(): self._auth_plugin: 
+2022-01-23:23:15:13,981 DEBUG    [connection.py:251] new_auth_plugin: caching_sha2_password
+2022-01-23:23:16:44,302 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): api.ocr.space:443
+2022-01-23:23:16:49,683 DEBUG    [connectionpool.py:456] https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 397
+2022-01-23:23:16:49,686 INFO     [parking_lot.py:75] Plate number: 6241506
+, Denied: No letter in plate, Timestamp: 2022-01-23 23:16:44
+2022-01-23:23:16:49,712 DEBUG    [connection.py:218] # _do_auth(): user: root
+2022-01-23:23:16:49,712 DEBUG    [connection.py:220] # _do_auth(): self._auth_plugin: 
+2022-01-23:23:16:49,712 DEBUG    [connection.py:251] new_auth_plugin: caching_sha2_password
+2022-01-23:23:18:56,42 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): api.ocr.space:443
+2022-01-23:23:18:57,281 DEBUG    [connectionpool.py:456] https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 396
+2022-01-23:23:18:57,286 INFO     [parking_lot.py:75] Plate number: 6241506
+, Denied: No letter in plate, Timestamp: 2022-01-23 23:18:56
+2022-01-23:23:18:57,312 DEBUG    [connection.py:218] # _do_auth(): user: root
+2022-01-23:23:18:57,312 DEBUG    [connection.py:220] # _do_auth(): self._auth_plugin: 
+2022-01-23:23:18:57,313 DEBUG    [connection.py:251] new_auth_plugin: caching_sha2_password
+2022-01-23:23:19:25,639 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): api.ocr.space:443
+2022-01-23:23:19:26,733 DEBUG    [connectionpool.py:456] https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 396
+2022-01-23:23:19:26,735 INFO     [parking_lot.py:75] Plate number: 6241506
+, Denied: No letter in plate, Timestamp: 2022-01-23 23:19:25
+2022-01-23:23:19:26,757 DEBUG    [connection.py:218] # _do_auth(): user: root
+2022-01-23:23:19:26,757 DEBUG    [connection.py:220] # _do_auth(): self._auth_plugin: 
+2022-01-23:23:19:26,757 DEBUG    [connection.py:251] new_auth_plugin: caching_sha2_password
+2022-01-23:23:25:12,728 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): api.ocr.space:443
+2022-01-23:23:25:13,956 DEBUG    [connectionpool.py:456] https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 396
+2022-01-23:23:25:13,959 INFO     [parking_lot.py:75] Plate number: 6241506
+, Denied: No letter in plate, Timestamp: 2022-01-23 23:25:12
+2022-01-23:23:25:13,985 DEBUG    [connection.py:218] # _do_auth(): user: root
+2022-01-23:23:25:13,985 DEBUG    [connection.py:220] # _do_auth(): self._auth_plugin: 
+2022-01-23:23:25:13,985 DEBUG    [connection.py:251] new_auth_plugin: caching_sha2_password
+2022-01-23:23:25:13,992 INFO     [parking_lot.py:90] Plate number: ADGHVCD, Granted, Timestamp: 2022-01-23 23:25:13
+2022-01-23:23:25:13,993 INFO     [parking_lot.py:90] Plate number: 8-785-49Q, Granted, Timestamp: 2022-01-23 23:25:13
+2022-01-23:23:25:13,993 INFO     [parking_lot.py:83] Plate number: 878L549, Denied: Law, Timestamp: 2022-01-23 23:25:13
+2022-01-23:23:25:13,994 INFO     [parking_lot.py:87] Plate number: 87M8549, Denied: Military, Timestamp: 2022-01-23 23:25:13
+2022-01-23:23:25:13,994 INFO     [parking_lot.py:75] Plate number: 8785492, Denied: No letter in plate, Timestamp: 2022-01-23 23:25:13
+2022-01-23:23:25:13,995 INFO     [parking_lot.py:75] Plate number: 8785496, Denied: No letter in plate, Timestamp: 2022-01-23 23:25:13
+2022-01-23:23:25:13,995 INFO     [parking_lot.py:79] Plate number: 878549G, Denied: Public transportation, Timestamp: 2022-01-23 23:25:13
+2022-01-23:23:25:13,999 INFO     [parking_lot.py:71] Plate number: , Denied: Unreadable / missing plate, Timestamp: 2022-01-23 23:25:13
+2022-01-23:23:26:30,652 DEBUG    [connectionpool.py:1001] Starting new HTTPS connection (1): api.ocr.space:443
+2022-01-23:23:26:31,815 DEBUG    [connectionpool.py:456] https://api.ocr.space:443 "POST /parse/image HTTP/1.1" 200 396
+2022-01-23:23:26:31,818 INFO     [parking_lot.py:75] Plate number: 6241506
+, Denied: No letter in plate, Timestamp: 2022-01-23 23:26:30
+2022-01-23:23:26:31,846 DEBUG    [connection.py:218] # _do_auth(): user: root
+2022-01-23:23:26:31,847 DEBUG    [connection.py:220] # _do_auth(): self._auth_plugin: 
+2022-01-23:23:26:31,847 DEBUG    [connection.py:251] new_auth_plugin: caching_sha2_password
